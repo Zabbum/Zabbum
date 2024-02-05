@@ -1,5 +1,1 @@
-- 👋 My name is Paweł Jan Kubas
-- 👀 Computer Science, Gaming, Linguistics
-- 🌱 Currently taking a CS50x course
-- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/pawelkubas/)
-- 😄 Pronouns: he/him
+Reach me on [Linkedin](https://www.linkedin.com/in/pawelkubas/)
